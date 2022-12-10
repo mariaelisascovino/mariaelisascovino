@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Olá! Eu sou Maria Elisa ✌️
 ### Sou dev júnior e estudo data analytics 
 
